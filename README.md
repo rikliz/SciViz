@@ -1,4 +1,4 @@
-mermaid
+```mermaid
 mindmap
   root((The pancreas))
     Exocrine pancreas
