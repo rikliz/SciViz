@@ -1,4 +1,4 @@
-# SciViz
+mermaid
 mindmap
   root((The pancreas))
     Exocrine pancreas
